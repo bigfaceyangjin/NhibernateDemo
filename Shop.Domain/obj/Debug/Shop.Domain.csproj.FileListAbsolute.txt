@@ -1,0 +1,5 @@
+D:\朱展\Work\ORM\NHibernate\Shop.WebSite\Shop.Domain\bin\Debug\Shop.Domain.dll
+D:\朱展\Work\ORM\NHibernate\Shop.WebSite\Shop.Domain\bin\Debug\Shop.Domain.pdb
+D:\朱展\Work\ORM\NHibernate\Shop.WebSite\Shop.Domain\obj\Debug\Shop.Domain.csproj.CoreCompileInputs.cache
+D:\朱展\Work\ORM\NHibernate\Shop.WebSite\Shop.Domain\obj\Debug\Shop.Domain.dll
+D:\朱展\Work\ORM\NHibernate\Shop.WebSite\Shop.Domain\obj\Debug\Shop.Domain.pdb
